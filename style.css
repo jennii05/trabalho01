@@ -3,6 +3,7 @@ header {
     color: black;
     padding: 20px;
     text-align: center;
+    margin: 0 1.5cm;
     }
 section {
     margin: 0 1.5cm;
@@ -10,7 +11,7 @@ section {
     color: black;
 }
 footer {
-    background-color: blue;
+    background-color: palevioletred;
     color: white;
     padding: 10px;
     text-align: center;
